@@ -1,5 +1,5 @@
 # hacker-emblem
-Translation of **The Glider: A Universal Hacker Emblem** by Eric S. Raymond.
+A Brazilian Portuguese translation of **The Glider: A Universal Hacker Emblem** by Eric S. Raymond.
 
 The original version can be found [here](http://www.catb.org/hacker-emblem/).
 
