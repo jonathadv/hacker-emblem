@@ -14,7 +14,7 @@ For more information about this translation project, please consult the [about t
 ## Disclaimer
 This translation is for informational purposes only, and is not a substitute for the original document. The original version of this document, found [here](http://www.catb.org/hacker-emblem/), is the only definitive and official version.
 
-This translation is made by volunteers whose the hope is to spread the knowledge to brazilian people who don't understand the english.
+This translation is made by volunteers whose the hope is to spread the knowledge to brazilian people who don't understand english.
 
 
 ## Contributing to this project
